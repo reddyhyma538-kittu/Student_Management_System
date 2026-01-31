@@ -134,10 +134,10 @@ python student_dashboard.py
 ### 🖥️ Dashboard View
 ![Dashboard](https://github.com/reddyhyma538-kittu/Student_Management_System/blob/main/WhatsApp%20Image%202026-01-31%20at%203.35.53%20PM.jpeg?raw=true)
 
-### ➕ Add Student
+### ➕ Delete Student
 ![Add Student](https://github.com/reddyhyma538-kittu/Student_Management_System/blob/main/WhatsApp%20Image%202026-01-31%20at%203.35.54%20PM%20(1).jpeg?raw=true)
 
-### ❌ Delete Student
+### ❌ Add Student
 ![Delete Student](https://github.com/reddyhyma538-kittu/Student_Management_System/blob/main/WhatsApp%20Image%202026-01-31%20at%203.35.54%20PM.jpeg?raw=true)
 
 ---
