@@ -127,6 +127,20 @@ python student_dashboard.py
 - Auto-fill data by ID  
 
 ---
+---
+
+## 📸 Screenshots
+
+### 🖥️ Dashboard View
+![Dashboard](https://github.com/reddyhyma538-kittu/Student_Management_System/blob/main/WhatsApp%20Image%202026-01-31%20at%203.35.53%20PM.jpeg?raw=true)
+
+### ➕ Add Student
+![Add Student](https://github.com/reddyhyma538-kittu/Student_Management_System/blob/main/WhatsApp%20Image%202026-01-31%20at%203.35.54%20PM%20(1).jpeg?raw=true)
+
+### ❌ Delete Student
+![Delete Student](https://github.com/reddyhyma538-kittu/Student_Management_System/blob/main/WhatsApp%20Image%202026-01-31%20at%203.35.54%20PM.jpeg?raw=true)
+
+---
 
 ## 📝 Conclusion  
 The Student Management System built by **Hyma** offers a smooth, modern, scalable solution for handling student information with secure SQL storage and a beautiful Python Tkinter GUI.
