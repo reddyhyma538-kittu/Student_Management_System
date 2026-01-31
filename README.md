@@ -2,7 +2,7 @@
 
 A simple and efficient **Student Management System** built using **Python (Tkinter GUI)** and **MySQL Database**, developed to manage student details with an attractive dashboard-style interface.
 
-**Developed by:** *Hyma* 🌸  
+**Developed by:** *Hyma*   
 **Technologies:** Python, Tkinter, MySQL, openpyxl  
 
 ---
